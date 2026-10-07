@@ -77,7 +77,7 @@ API keys and environment files are excluded through `.gitignore`. Never commit `
 
 ## The LangChain Ecosystem — Visual Overview
 
-A non-technical visual guide to how the seven core LangChain components work together—from your data to intelligent answers, with LangSmith observability.
+A simple visual guide to show the seven core LangChain components work together—from your data to intelligent answers, with LangSmith observability.
 
 <p align="center">
   <img src="images/langchain_ecosystem_overview.png" alt="The LangChain Ecosystem - Visual Overview" width="100%">
