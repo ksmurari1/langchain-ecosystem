@@ -1,0 +1,4 @@
+LangChain helps build AI applications.
+Python is a popular programming language.
+Dogs are friendly animals.
+Cars are useful for transportation.
