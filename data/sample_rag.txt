@@ -1,0 +1,1 @@
+LangChain provides components for building AI applications. Document loaders ingest data. Text splitters divide large documents into chunks. Embeddings convert text into numerical vectors. Vector stores save and search those vectors. Retrievers find relevant documents for a question. Chains connect components into an executable workflow.

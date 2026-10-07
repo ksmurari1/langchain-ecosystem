@@ -13,5 +13,6 @@ prompts = [
 
 for p in prompts:
     response = llm.invoke(p)
+
     print("\nPrompt:", p)
     print("Answer:", response.content)

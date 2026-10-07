@@ -99,7 +99,7 @@ This distinction is important: document preparation normally happens before user
 
 ## Visual
 
-![Chain Process](chain_process.png)
+![Chain Process](../images/chain_process.png)
 
 ## Repository
 

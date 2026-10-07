@@ -69,11 +69,11 @@ The LangSmith project view can show the three runs, while an opened run exposes 
 
 ## Visuals
 
-![LangSmith Use Case](langsmith_usecase.png)
+![LangSmith Use Case](../images/langsmith_usecase.png)
 
-![LangSmith Project Trace](langsmith_project_trace.png)
+![LangSmith Project Trace](../images/langsmith_project_trace.png)
 
-![LangSmith One Run](langsmith_onerun.png)
+![LangSmith One Run](../images/langsmith_onerun.png)
 
 ## Repository
 

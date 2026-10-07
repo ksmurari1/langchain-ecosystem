@@ -8,7 +8,6 @@ embeddings = OpenAIEmbeddings(
 )
 
 text = "I love programming in Python."
-
 vector = embeddings.embed_query(text)
 
 print("Vector size:", len(vector))

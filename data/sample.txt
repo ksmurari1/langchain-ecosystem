@@ -1,0 +1,1 @@
+LangChain helps developers build applications powered by language models. Python is commonly used for AI application development. Document loaders bring external content into LangChain.

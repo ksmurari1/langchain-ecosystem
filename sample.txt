@@ -1,3 +1,0 @@
-LangChain is a framework for building AI applications.
-It helps connect language models with external data.
-Data ingestion is the first step in a RAG pipeline.

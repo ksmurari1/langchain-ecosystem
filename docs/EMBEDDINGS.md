@@ -78,7 +78,7 @@ Vector Store
 
 ## Visual
 
-![Embeddings](embeddings_numerical_vectors.png)
+![Embeddings](../images/embeddings_numerical_vectors.png)
 
 ## Repository
 

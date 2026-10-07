@@ -46,7 +46,7 @@ Very large documents are not ideal for embedding and retrieval as one unit. Smal
 
 ## Visual
 
-![Text Splitter](text_splitter.png)
+![Text Splitter](../images/text_splitter.png)
 
 ## Repository
 

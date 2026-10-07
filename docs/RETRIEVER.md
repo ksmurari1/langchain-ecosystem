@@ -68,7 +68,7 @@ The Retriever is the bridge between stored knowledge and the answer-generation w
 
 ## Visual
 
-![Retriever Workflow](retriever_workflow.png)
+![Retriever Workflow](../images/retriever_workflow.png)
 
 ## Repository
 

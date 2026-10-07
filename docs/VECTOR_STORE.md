@@ -67,9 +67,9 @@ Production applications may use persistent vector databases such as FAISS, Chrom
 
 ## Visuals
 
-![Vector Store Workflow](vector_store_workflow.png)
+![Vector Store Workflow](../images/vector_store_workflow.png)
 
-![Vector Store Execution](vector_store_execution.png)
+![Vector Store Execution](../images/vector_store_execution.png)
 
 ## Repository
 

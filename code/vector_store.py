@@ -13,7 +13,6 @@ texts = [
 ]
 
 vector_store = InMemoryVectorStore(embedding=embeddings)
-
 vector_store.add_texts(texts)
 
 results = vector_store.similarity_search(
